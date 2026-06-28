@@ -1,4 +1,4 @@
-Простенькое локальное хранилище.
+Простенькое файловое хранилище
 
 Front: vue3 composition, axios, vuex, vue-router, jwt.
 
